@@ -1,0 +1,462 @@
+[
+   {
+      "locale":"af",
+      "country":"Afrikaans",
+      "string":"jy sê dit, tooonage dit speel!"
+   },
+   {
+      "locale":"ar",
+      "country":"Arabic",
+      "string":"كنت أقول ذلك، tooonage يلعب له!"
+   },
+   {
+      "locale":"az",
+      "country":"Azerbaijani",
+      "string":"Siz tooonage oynayır, demək!"
+   },
+   {
+      "locale":"be",
+      "country":"Belarusian",
+      "string":"вы кажаце, tooonage гуляе яго!"
+   },
+   {
+      "locale":"bg",
+      "country":"Bulgarian",
+      "string":"ти го кажа, tooonage тя играе!"
+   },
+   {
+      "locale":"bn",
+      "country":"Bengali",
+      "string":"আপনি এটা বলতে, tooonage এটা পালন করে!"
+   },
+   {
+      "locale":"bs",
+      "country":"Bosnian",
+      "string":"to kažeš, tooonage igra!"
+   },
+   {
+      "locale":"ca",
+      "country":"Catalan",
+      "string":"vostè ho diu, tooonage la juga!"
+   },
+   {
+      "locale":"ceb",
+      "country":"Cebuano",
+      "string":"kamo moingon niini, tooonage pasundayag niini!"
+   },
+   {
+      "locale":"cs",
+      "country":"Czech",
+      "string":"to říkáš, tooonage to hraje!"
+   },
+   {
+      "locale":"cy",
+      "country":"Welsh",
+      "string":"rydych yn ei ddweud, tooonage chwarae ei!"
+   },
+   {
+      "locale":"da",
+      "country":"Danish",
+      "string":"du siger det, tooonage spiller det!"
+   },
+   {
+      "locale":"de",
+      "country":"German",
+      "string":"Sie sagen, es ist, tooonage spielt es!"
+   },
+   {
+      "locale":"el",
+      "country":"Greek",
+      "string":"σας το πω, tooonage παίζει!"
+   },
+   {
+      "locale":"en",
+      "country":"English",
+      "string":"you say it, tooonage plays it!"
+   },
+   {
+      "locale":"eo",
+      "country":"Esperanto",
+      "string":"you say it, tooonage plays it!"
+   },
+   {
+      "locale":"es",
+      "country":"Spanish",
+      "string":"usted lo dice, tooonage la juega!"
+   },
+   {
+      "locale":"et",
+      "country":"Estonian",
+      "string":"sa ütled seda, tooonage mängib seda!"
+   },
+   {
+      "locale":"eu",
+      "country":"Basque",
+      "string":"esan duzu, tooonage juega da!"
+   },
+   {
+      "locale":"fa",
+      "country":"Persian",
+      "string":"شما آن را می گویند، tooonage آن را بازی میکند."
+   },
+   {
+      "locale":"fi",
+      "country":"Finnish",
+      "string":"sanot sen, tooonage toistaa sen!"
+   },
+   {
+      "locale":"fr",
+      "country":"French",
+      "string":"vous le dites, tooonage joue!"
+   },
+   {
+      "locale":"ga",
+      "country":"Irish",
+      "string":"a deir tú é, imríonn tooonage é!"
+   },
+   {
+      "locale":"gl",
+      "country":"Galician",
+      "string":"di iso, tooonage xoga-lo!"
+   },
+   {
+      "locale":"gu",
+      "country":"Gujarati",
+      "string":"તમે તેને કહે છે, tooonage તે ભજવે છે!"
+   },
+   {
+      "locale":"ha",
+      "country":"Hausa",
+      "string":"ka ce da shi, tooonage taka shi!"
+   },
+   {
+      "locale":"hi",
+      "country":"Hindi",
+      "string":"आप यह कहते हैं, tooonage यह खेलता है!"
+   },
+   {
+      "locale":"hmn",
+      "country":"Hmong",
+      "string":"you say it, tooonage plays it!"
+   },
+   {
+      "locale":"hr",
+      "country":"Croatian",
+      "string":"ti to reći, tooonage to igra!"
+   },
+   {
+      "locale":"ht",
+      "country":"Haitian Creole",
+      "string":"ou di li, tooonage jwe li!"
+   },
+   {
+      "locale":"hu",
+      "country":"Hungarian",
+      "string":"mondod, tooonage játszik meg!"
+   },
+   {
+      "locale":"hy",
+      "country":"Armenian",
+      "string":"դուք ասում այն, tooonage է խաղում այն!"
+   },
+   {
+      "locale":"id",
+      "country":"Indonesian",
+      "string":"Anda mengatakan itu, tooonage memainkan itu!"
+   },
+   {
+      "locale":"ig",
+      "country":"Igbo",
+      "string":"i si kwuo ya, tooonage-arụ ya!"
+   },
+   {
+      "locale":"is",
+      "country":"Icelandic",
+      "string":"þú segir það, tooonage spilar það!"
+   },
+   {
+      "locale":"it",
+      "country":"Italian",
+      "string":"lo dici, tooonage gioca!"
+   },
+   {
+      "locale":"iw",
+      "country":"Hebrew",
+      "string":"אתה אומר את זה, tooonage מנגן את זה!"
+   },
+   {
+      "locale":"ja",
+      "country":"Japanese",
+      "string":"あなたはtooonageがそれを果たして、それを言います！"
+   },
+   {
+      "locale":"jw",
+      "country":"Javanese",
+      "string":"sampeyan ngomong iku, tooonage muter iku!"
+   },
+   {
+      "locale":"ka",
+      "country":"Georgian",
+      "string":"თქვენ ამბობენ, tooonage უკრავს ეს!"
+   },
+   {
+      "locale":"kk",
+      "country":"Kazakh",
+      "string":"сіз оны айта, tooonage оны атқарады!"
+   },
+   {
+      "locale":"km",
+      "country":"Khmer",
+      "string":"អ្នកនិយាយថាវា tooonage ដើរវា!"
+   },
+   {
+      "locale":"kn",
+      "country":"Kannada",
+      "string":"ನೀವು, ಇದನ್ನು ಹೇಳಲು tooonage ಅದು ವಹಿಸುತ್ತದೆ!"
+   },
+   {
+      "locale":"ko",
+      "country":"Korean",
+      "string":"당신은 tooonage이 그것을 재생, 그것을 말할!"
+   },
+   {
+      "locale":"la",
+      "country":"Latin",
+      "string":"you say it, tooonage plays it!"
+   },
+   {
+      "locale":"lo",
+      "country":"Lao",
+      "string":"ທ່ານເວົ້າວ່າມັນ, tooonage ມີບົດບາດມັນ!"
+   },
+   {
+      "locale":"lt",
+      "country":"Lithuanian",
+      "string":"Jums pasakyti, tooonage groja!"
+   },
+   {
+      "locale":"lv",
+      "country":"Latvian",
+      "string":"jūs to sakāt, tooonage spēlē to!"
+   },
+   {
+      "locale":"mg",
+      "country":"Malagasy",
+      "string":"hoy ianao izany, tooonage mitendry izany!"
+   },
+   {
+      "locale":"mi",
+      "country":"Maori",
+      "string":"mea koe i te reira, tooonage whai reira!"
+   },
+   {
+      "locale":"mk",
+      "country":"Macedonian",
+      "string":"ќе го кажеш, tooonage таа игра!"
+   },
+   {
+      "locale":"ml",
+      "country":"Malayalam",
+      "string":"നിങ്ങൾ അത് പറയുന്നു tooonage അതു കളിക്കുന്നത്!"
+   },
+   {
+      "locale":"mn",
+      "country":"Mongolian",
+      "string":"Та үүнийг хэлж байна, tooonage үүнийг гүйцэтгэдэг!"
+   },
+   {
+      "locale":"mr",
+      "country":"Marathi",
+      "string":"तुम्ही म्हणता ते बरोबर आहे tooonage ला!"
+   },
+   {
+      "locale":"ms",
+      "country":"Malay",
+      "string":"anda mengatakan ia, tooonage memainkan ia!"
+   },
+   {
+      "locale":"mt",
+      "country":"Maltese",
+      "string":"inti jgħidu li, tooonage jilgħab it!"
+   },
+   {
+      "locale":"my",
+      "country":"Myanmar (Burmese)",
+      "string":"သင်ကဆိုသည်ကား, tooonage ကကစား!"
+   },
+   {
+      "locale":"ne",
+      "country":"Nepali",
+      "string":"तपाईं tooonage यो खेल्छ, यो भन्न!"
+   },
+   {
+      "locale":"nl",
+      "country":"Dutch",
+      "string":"je zegt het, tooonage speelt!"
+   },
+   {
+      "locale":"no",
+      "country":"Norwegian",
+      "string":"du sier det, tooonage spiller det!"
+   },
+   {
+      "locale":"ny",
+      "country":"Chichewa",
+      "string":"inu mumati, tooonage masewero izo!"
+   },
+   {
+      "locale":"pa",
+      "country":"Punjabi",
+      "string":"ਤੁਹਾਨੂੰ ਇਸ ਨੂੰ ਆਖਦੇ ਨੇ, tooonage ਇਸ ਨੂੰ ਖੇਡਦਾ ਹੈ!"
+   },
+   {
+      "locale":"pl",
+      "country":"Polish",
+      "string":"to powiedzieć, tooonage odgrywa to!"
+   },
+   {
+      "locale":"pt",
+      "country":"Portuguese",
+      "string":"você diz isso, tooonage joga-lo!"
+   },
+   {
+      "locale":"ro",
+      "country":"Romanian",
+      "string":"o spui, tooonage joacă!"
+   },
+   {
+      "locale":"ru",
+      "country":"Russian",
+      "string":"вы говорите, tooonage играет его!"
+   },
+   {
+      "locale":"si",
+      "country":"Sinhala",
+      "string":"ඔබ එය කියන්නේ, tooonage එය ඉටු කරයි!"
+   },
+   {
+      "locale":"sk",
+      "country":"Slovak",
+      "string":"to hovoríš, tooonage to hrá!"
+   },
+   {
+      "locale":"sl",
+      "country":"Slovenian",
+      "string":"ste rekli, tooonage se igra!"
+   },
+   {
+      "locale":"so",
+      "country":"Somali",
+      "string":"aad odhan, tooonage u ciyaaro!"
+   },
+   {
+      "locale":"sq",
+      "country":"Albanian",
+      "string":"ju thoni atë, tooonage luan atë!"
+   },
+   {
+      "locale":"sr",
+      "country":"Serbian",
+      "string":"ви то кажете, тооонаге се игра!"
+   },
+   {
+      "locale":"st",
+      "country":"Sesotho",
+      "string":"u se buang ho lona, ​​tooonage phetha it!"
+   },
+   {
+      "locale":"su",
+      "country":"Sundanese",
+      "string":"anjeun ngomong, tooonage muterkeun eta!"
+   },
+   {
+      "locale":"sv",
+      "country":"Swedish",
+      "string":"du säger det, tooonage spelar det!"
+   },
+   {
+      "locale":"sw",
+      "country":"Swahili",
+      "string":"wewe kusema hivyo, tooonage ina hivyo!"
+   },
+   {
+      "locale":"ta",
+      "country":"Tamil",
+      "string":"நீங்கள் tooonage அதை வகிக்கிறது, அதை சொல்ல!"
+   },
+   {
+      "locale":"te",
+      "country":"Telugu",
+      "string":"మీరు చెప్పాను tooonage వినిపిస్తుంది!"
+   },
+   {
+      "locale":"tg",
+      "country":"Tajik",
+      "string":"Шумо мегуед, tooonage он мебозад!"
+   },
+   {
+      "locale":"th",
+      "country":"Thai",
+      "string":"คุณบอกว่ามัน tooonage เล่นมัน!"
+   },
+   {
+      "locale":"tl",
+      "country":"Filipino",
+      "string":"sabihin mo ito, tooonage nagpe-play ito!"
+   },
+   {
+      "locale":"tr",
+      "country":"Turkish",
+      "string":"Eğer tooonage oynar, söyle!"
+   },
+   {
+      "locale":"uk",
+      "country":"Ukrainian",
+      "string":"ви говорите, tooonage грає його!"
+   },
+   {
+      "locale":"ur",
+      "country":"Urdu",
+      "string":"آپ یہ کہنا، tooonage یہ ادا کرتا ہے!"
+   },
+   {
+      "locale":"uz",
+      "country":"Uzbek",
+      "string":"Agar tooonage uni o&#39;ynaydi, uni aytish!"
+   },
+   {
+      "locale":"vi",
+      "country":"Vietnamese",
+      "string":"bạn nói nó, tooonage đóng nó!"
+   },
+   {
+      "locale":"yi",
+      "country":"Yiddish",
+      "string":"איר זאָגן עס, טאָאָאָנאַגע plays עס!"
+   },
+   {
+      "locale":"yo",
+      "country":"Yoruba",
+      "string":"ti o sọ o, tooonage yoo o!"
+   },
+   {
+      "locale":"zh",
+      "country":"Chinese",
+      "string":"你说，tooonage发挥吧！"
+   },
+   {
+      "locale":"zh-CN",
+      "country":"Chinese (Simplified)",
+      "string":"你说，tooonage发挥吧！"
+   },
+   {
+      "locale":"zh-TW",
+      "country":"Chinese (Traditional)",
+      "string":"你說，tooonage發揮吧！"
+   },
+   {
+      "locale":"zu",
+      "country":"Zulu",
+      "string":"uthi, tooonage udlala it!"
+   }
+]

@@ -1,0 +1,462 @@
+[
+   {
+      "locale":"af",
+      "country":"Afrikaans",
+      "string":"stem beheerde klank speler. sê naam kunstenaar, album of liedjie titel en tooonage doen die res. selfs gedeeltelike name en titels werk.  krap beheer het bygevoeg: sleep regs = speel volgende snit krap links = speel vorige track krap up = toename volume krap af = afname volume"
+   },
+   {
+      "locale":"ar",
+      "country":"Arabic",
+      "string":"صوت تسيطر عليها لاعب السمعية. يقول اسم الفنان أو الألبوم أو عنوان الأغنية وtooonage بالباقي. حتى أسماء جزئية والعناوين.  وأضافت السيطرة انتقاد: مرر لليمين = لعب المسار التالي انتقاد اليسار = تلعب المسار السابق انتقد حتى = زيادة حجم مرر لأسفل = حجم الانخفاض"
+   },
+   {
+      "locale":"az",
+      "country":"Azerbaijani",
+      "string":"səs audio player nəzarət. rəssam adı, albom və ya mahnı adı və tooonage qalan yoxdur deyirlər. hətta qismən adları və adları çalışır.  çalmak nəzarət əlavə etdi: = Növbəti track sağ oynamaq çalmak çalmak sol = əvvəlki track oynamaq = Artım həcmi çalmak = Azalma həcmi aşağı çalmak"
+   },
+   {
+      "locale":"be",
+      "country":"Belarusian",
+      "string":"Голас кіруецца аўдыяплэер. вымавіць імя выканаўцы, назва альбома або назва песні і tooonage робіць усё астатняе. нават частковыя імёны і назвы работы.  Кіраванне Размах дадаў: правядзіце пальцам направа = гуляць наступны трэк правядзіце пальцам налева = прайграванне папярэдняга трэка правядзіце пальцам уверх = павялічыць гучнасць правядзіце пальцам уніз = паменшыць гучнасць"
+   },
+   {
+      "locale":"bg",
+      "country":"Bulgarian",
+      "string":"Гласът контролира аудио плейър. каже името на изпълнителя, албума или заглавието на песента и tooonage ще свърши останалото. дори частични имена и титли работят.  контрол неточен удар на добавяне: тласнете надясно = играе следващата песен Плъзнете наляво = играят предишната песен неточен удар нагоре = увеличение на обема пръст надолу = намаляване на звука"
+   },
+   {
+      "locale":"bn",
+      "country":"Bengali",
+      "string":"ভয়েস অডিও প্লেয়ার নিয়ন্ত্রিত. বলে শিল্পীর নাম, অ্যালবাম বা গান শিরোনাম এবং tooonage বাকি কাজ করে. এমনকি আংশিক নাম এবং শিরোনাম কাজ.  ধুমধাড়াক্কা নিয়ন্ত্রণ এখনো যোগ করেনি: অধিকার সোয়াইপ = পরবর্তী ট্র্যাক খেলা ধুমধাড়াক্কা বাম = পূর্ববর্তী ট্র্যাক খেলা = বৃদ্ধি ভলিউম ধুমধাড়াক্কা আপ = হ্রাস ভলিউম ডাউন ধুমধাড়াক্কা"
+   },
+   {
+      "locale":"bs",
+      "country":"Bosnian",
+      "string":"glas pod kontrolom audio player. reći ime izvođača, album ili pjesmu naslov i tooonage radi ostalo. čak i parcijalne imena i naslova raditi.  Kontrola swipe dodao: prevucite desno = igrati pored staze prevucite lijevo = igrati prethodnog zapisa povucite prema gore = volumen povećanje prevucite prstom = volumen smanjenje"
+   },
+   {
+      "locale":"ca",
+      "country":"Catalan",
+      "string":"veu controlada reproductor d&#39;àudio. diuen el nom de l&#39;artista, àlbum o títol de la cançó i tooonage fa la resta. fins i tot els noms i títols parcials funcionen.  control de cop ha afegit: feu lliscar el dit cap a la dreta = reproduir la següent pista Passada a l&#39;esquerra = juguen pista anterior moveu-vos cap amunt = augment de volum lliscar cap avall = baixar el volum"
+   },
+   {
+      "locale":"ceb",
+      "country":"Cebuano",
+      "string":"tingog kontrolado audio player. ingon ngalan artist, album o awit titulo ug tooonage nagabuhat sa uban. bisan sa partial mga ngalan ug mga titulo sa pagtrabaho.  swipe sa pagpugong midugang: swipe sa tuo = play sa sunod track swipe sa wala = play miaging track swipe sa = abut gidaghanon swipe sa = pagkunhod gidaghanon"
+   },
+   {
+      "locale":"cs",
+      "country":"Czech",
+      "string":"hlasem řízený audio přehrávač. říkat jméno interpreta, alba nebo název skladby a tooonage se postará o zbytek. ani částečné jména a tituly fungovat.  Ovládání výpad, který zní: přejeďte vpravo = hrát další skladbu přejetím prstem doleva = přehrát předchozí stopu přejetím prstem nahoru = nárůst objemu přejetím dolů = snížení hlasitosti"
+   },
+   {
+      "locale":"cy",
+      "country":"Welsh",
+      "string":"llais a reolir chwaraewr sain. dweud enw&#39;r artist, albwm neu gân deitl ac tooonage yn gwneud y gweddill. hyd yn oed enwau a theitlau rhannol yn gweithio.  Ychwanegodd rheolaeth swipe: Llithro i&#39;r dde = chwarae trac nesaf swipe chwith = chwarae trac blaenorol llithro i fyny = cynnydd cyfaint llithro i lawr = cyfaint gostyngiad"
+   },
+   {
+      "locale":"da",
+      "country":"Danish",
+      "string":"stemme kontrolleret lydafspiller. siger kunstnernavn, album eller sangtitel og tooonage gør resten. selv delvise navne og titler virker.  knalde kontrol tilføjede: Stryg til højre = spille næste spor swipe venstre = spille forrige nummer knalde op = stigning volumen knalde ned = nedgang volumen"
+   },
+   {
+      "locale":"de",
+      "country":"German",
+      "string":"Stimme Audio-Player gesteuert werden. sagen Künstlername, Album oder Songtitel und tooonage den Rest. auch auszugsweise Namen und Titel arbeiten.  Swipe-Steuerung hinzugefügt: Streichen Sie nach rechts = nächsten Titel spielen Streichen Sie nach links = spielen vorherigen Titel Swipe nach oben = Lautstärke erhöhen Swipe nach unten = Lautstärke verringern"
+   },
+   {
+      "locale":"el",
+      "country":"Greek",
+      "string":"φωνή ελεγχόμενη συσκευή αναπαραγωγής ήχου. λένε το όνομα του καλλιτέχνη, του άλμπουμ ή τον τίτλο του τραγουδιού και tooonage κάνει τα υπόλοιπα. έστω και μερική ονόματα και τίτλους λειτουργήσει.  ελέγχου κτύπημα πρόσθεσε: Σύρετε προς τα δεξιά = παίξει το επόμενο κομμάτι κτύπημα αριστερά = παίξει το προηγούμενο κομμάτι σύρετε προς τα επάνω = αύξηση του όγκου σύρετε προς τα κάτω = μείωση της έντασης"
+   },
+   {
+      "locale":"en",
+      "country":"English",
+      "string":"voice controlled audio player.  say artist name, album or song title and tooonage does the rest. even partial names and titles work.  swipe control added: swipe right = play next track swipe left    = play previous track swipe up     = increase volume swipe down = decrease volume"
+   },
+   {
+      "locale":"eo",
+      "country":"Esperanto",
+      "string":"voice controlled audio player.  say artist name, album or song title and tooonage does the rest. even partial names and titles work.  swipe control added: swipe right = play next track swipe left    = play previous track swipe up     = increase volume swipe down = decrease volume"
+   },
+   {
+      "locale":"es",
+      "country":"Spanish",
+      "string":"voz controlada reproductor de audio. dicen el nombre del artista, álbum o título de la canción y tooonage hace el resto. incluso los nombres y títulos parciales funcionan.  control de golpe ha añadido: deslice el dedo hacia la derecha = reproducir la siguiente pista Pase a la izquierda = juegan pista anterior muévase hacia arriba = aumento de volumen deslizar hacia abajo = bajar el volumen"
+   },
+   {
+      "locale":"et",
+      "country":"Estonian",
+      "string":"Hääljuhitavat audio mängija. öelda kunstniku nime, albumi või laulu pealkiri ja tooonage teeb ülejäänu. isegi osaline nimed ja pealkirjad tööta.  kaevukook kontrolli lisas: libistage ekraanil sõrme paremale = mängida järgmise loo kaevukook vasakule = mängida eelmise loo pühkige = helitugevuse suurendamine alla tõmmata = vähenemine mahu"
+   },
+   {
+      "locale":"eu",
+      "country":"Basque",
+      "string":"ahots kontrolatutako audio jokalari. esan artistaren izena, album edo abestiaren izenburua eta tooonage gainerako du. are partziala izen eta tituluak lan.  irristapen kontrol gehitu: irristatu eskuinera = play hurrengo track mugitu hatza ezkerrera = play aurreko track irristatu hatza = hazkundea bolumena Pasa hatza = jaitsiera bolumena"
+   },
+   {
+      "locale":"fa",
+      "country":"Persian",
+      "string":"کنترل صدا پخش کننده های صوتی. می گویند نام هنرمند، آلبوم و یا عنوان آهنگ و tooonage کند بقیه. حتی نام های جزئی و عناوین کار.  کنترل ضربه تند وشدید زدن افزود: راست بروید = بازی آهنگ بعدی به سمت چپ بروید = بازی آهنگ قبلی کش رفتن به بالا = افزایش حجم کش رفتن به پایین = کاهش حجم"
+   },
+   {
+      "locale":"fi",
+      "country":"Finnish",
+      "string":"ääniohjauksen soittimeen. sano artistin, albumin tai kappaleen nimen ja tooonage hoitaa loput. edes osittain nimet ja otsikot työtä.  pyyhkäisemällä ohjaus lisäsi: pyyhkäise oikealle = pelata seuraavan kappaleen pyyhkäisemällä vasemmalle = pelata edellisen kappaleen pyyhkäisemällä = lisäys tilavuus pyyhkäisemällä alaspäin = vähennä äänenvoimakkuutta"
+   },
+   {
+      "locale":"fr",
+      "country":"French",
+      "string":"commande vocale lecteur audio. dire le nom de l&#39;artiste, l&#39;album ou la chanson titre et tooonage fait le reste. même les noms et titres partiels travaillent.  contrôle de glissement ajouté: balayez vers la droite = lire la piste suivante Balayez vers la gauche = jouent piste précédente balayez vers le haut = augmentation du volume balayez vers le bas = diminuer le volume"
+   },
+   {
+      "locale":"ga",
+      "country":"Irish",
+      "string":"guth rialaithe seinnteoir fuaime. Deir ainm ealaíontóir, albam nó amhrán teideal agus tooonage dhéanann an chuid eile. fiú ainmneacha páirteach agus teidil oibre.  rialú swipe leanas: swipe ceart = spraoi rian seo chugainn swipe chlé = spraoi rian roimhe swipe suas = an toirt méadú swipe síos = an toirt laghdú"
+   },
+   {
+      "locale":"gl",
+      "country":"Galician",
+      "string":"voz controlada lector de audio. dicir o nome do artista, álbum ou música título e tooonage fai o resto. incluso nomes parciais e títulos traballar.  control de furto engadiu: lixeiramente cara á dereita = xogar seguinte pista deixou de furto = xogar pista anterior deslice cara arriba = aumento de volume deslice cara abaixo = baixar o volume"
+   },
+   {
+      "locale":"gu",
+      "country":"Gujarati",
+      "string":"અવાજ ઓડિયો પ્લેયર નિયંત્રિત. કહે કલાકાર નામ, આલ્બમ અથવા ગીત શીર્ષક અને tooonage બાકીના કરે છે. પણ આંશિક નામ અને ટાઈટલ કામ કરે છે.  સ્વાઇપ નિયંત્રણ ઉમેરી: અધિકાર સ્વાઇપ = આગામી ટ્રેક રમવા સ્વાઇપ છોડી = અગાઉના ટ્રેક રમવા = વધારો વોલ્યુમ સ્વાઇપ = ઘટાડો વોલ્યુમ નીચે સ્વાઇપ"
+   },
+   {
+      "locale":"ha",
+      "country":"Hausa",
+      "string":"murya sarrafawa audio player. ce artist name, album ko song take da tooonage aikata sauran. har m sunaye da lakabobi aiki.  Doke shi gefe iko kara da cewa: Doke shi gefe dama = wasa na gaba track Doke shi gefe bar = taka wažar data gabata Doke shi gefe up = karuwa girma Doke shi gefe saukar = rage girma"
+   },
+   {
+      "locale":"hi",
+      "country":"Hindi",
+      "string":"आवाज ऑडियो प्लेयर को नियंत्रित किया। का कहना है कि कलाकार का नाम, एल्बम या शीर्षक गीत और tooonage बाकी है। यहां तक ​​कि आंशिक नाम और शीर्षक काम करते हैं।  कड़ी चोट नियंत्रण कहा: दाईं ओर स्वाइप = अगले ट्रैक खेलने कड़ी चोट छोड़ दिया = पिछले ट्रैक खेलने = वृद्धि की मात्रा ऊपर स्वाइप = कमी मात्रा नीचे स्वाइप"
+   },
+   {
+      "locale":"hmn",
+      "country":"Hmong",
+      "string":"voice controlled audio player.  say artist name, album or song title and tooonage does the rest. even partial names and titles work.  swipe control added: swipe right = play next track swipe left    = play previous track swipe up     = increase volume swipe down = decrease volume"
+   },
+   {
+      "locale":"hr",
+      "country":"Croatian",
+      "string":"Glas kontrolira audio player. reći ime izvođača, album ili pjesma naslov i tooonage će učiniti ostalo. čak i oni djelomični imena i naslovi raditi.  Kontrola swipe dodao: Prijeđite prstom udesno = igrati sljedeću pjesmu Prijeđite prstom ulijevo = igrati prethodne pjesme Prijeđite prstom prema gore = povećanje volumena povucite prema dolje = stišavanje zvuka"
+   },
+   {
+      "locale":"ht",
+      "country":"Haitian Creole",
+      "string":"vwa kontwole odyo jwè. di non atis, album oswa chante tit ak tooonage fè rès la. menm non pasyèl ak tit travay.  kontwòl glise te ajoute: glise dwa = jwe pwochen tras glise kite = jwe tras anvan yo glise moute = ogmantasyon volim glise desann = diminisyon volim"
+   },
+   {
+      "locale":"hu",
+      "country":"Hungarian",
+      "string":"hangvezérléses audiolejátszó. mondjuk az előadó neve, album vagy dal címe és tooonage a többit. még a részleges neveket és címeket működik.  ellop vezérlő egészül ki: Csúsztasd jobbra = játszani a következő műsorszám csúsztassa balra = játszani előző műsorszám csúsztassa felfelé = hangerő növelése csúsztassa lefelé = hangerő csökkentése"
+   },
+   {
+      "locale":"hy",
+      "country":"Armenian",
+      "string":"ձայնային վերահսկվում աուդիո նվագարկիչ: ասում են նկարիչ անունը, ալբոմ, կամ երգ վերնագիրը եւ tooonage չի մնացածը: նույնիսկ մասնակի անունները եւ կոչումներ աշխատել.  swipe հսկողություն ավելացրեց. swipe աջ = խաղալ հաջորդ Հետեւել Սահահարվածել ձախ = խաղալ նախորդ Հետեւել սահեցրեք մինչեւ = մեծացնել ծավալը swipe ցած = նվազում ծավալը"
+   },
+   {
+      "locale":"id",
+      "country":"Indonesian",
+      "string":"suara dikendalikan audio player. mengatakan nama artis, album atau judul lagu dan tooonage melakukan sisanya. bahkan nama parsial dan judul bekerja.  kontrol menggesek menambahkan: geser kanan = memutar lagu berikutnya Gesek ke kiri = memutar trek sebelumnya geser ke atas = meningkatkan volume geser ke bawah = mengurangi volume"
+   },
+   {
+      "locale":"ig",
+      "country":"Igbo",
+      "string":"olu-achịkwa audio player. ekwu artist aha, album ma ọ bụ song na aha ma tooonage-eme ihe ndị ọzọ. ọbụna ele mmadụ anya n&#39;ihu aha na utu aha na-arụ ọrụ.  swipe akara kwukwara, sị: Swipe nri = egwu egwu ọzọ swipe ekpe = egwu gara aga track Swipe elu = abawanye olu Swipe ala = ọnụ olu"
+   },
+   {
+      "locale":"is",
+      "country":"Icelandic",
+      "string":"Rödd stjórnað hljómflutnings-leikmaður. segja listamaður nafn, plötu eða söngur titill og tooonage hjartarskinn the hvíla. jafnvel hluta nöfn og titlar vinna.  strjúka stjórn þann: Strjúktu til hægri = spila næsta lag Strjúktu til vinstri = spila fyrra lag Strjúktu upp = aukning bindi Strjúktu niður = lækkun bindi"
+   },
+   {
+      "locale":"it",
+      "country":"Italian",
+      "string":"voce controllata lettore audio. dicono nome artista, album o titolo del brano e tooonage fa il resto. anche nomi parziali e titoli di lavoro.  Controllo colpo ha aggiunto: Scorri verso destra = riprodurre la traccia successiva Scorri verso sinistra = giocano traccia precedente scorrere verso l&#39;alto = aumento di volume scorrere verso il basso = diminuire il volume"
+   },
+   {
+      "locale":"iw",
+      "country":"Hebrew",
+      "string":"קול מאופק נגן אודיו. אומרים שם האמן, שם האלבום או השיר tooonage עושה את השאר. אפילו שמות ותארים חלקית לעבוד.  שליטה לסחוב הוסיפה: החלקה ימינה = לשחק הרצועה הבאה = שמאל לסחוב לשחק רצועה קודמת חלק למעלה = נפח גידול חלק מטה = נפח ירידה"
+   },
+   {
+      "locale":"ja",
+      "country":"Japanese",
+      "string":"音声制御オーディオプレーヤー。 アーティスト名、アルバムや曲のタイトルとtooonageは、残りの部分はありませんと言います。 でも部分的な名前やタイトルが働きます。  スワイプコントロールが追加されました： 右にスワイプ=次のトラックを再生 左にスワイプ=前のトラックを再生 =増加のボリュームを上方向にスワイプ =減少量を下にスワイプ"
+   },
+   {
+      "locale":"jw",
+      "country":"Javanese",
+      "string":"swara kontrol pamuter audio. ngomong jeneng artis, album utawa lagu title lan tooonage ora liyane. malah jeneng sebagean lan gelar bisa.  kontrol geser ditambahaké: gesek tengen = muter trek sabanjure geser ngiwa = muter trek sadurunge gesek munggah = Tambah volume gesek mudhun = volume nyuda"
+   },
+   {
+      "locale":"ka",
+      "country":"Georgian",
+      "string":"ხმა აკონტროლებს აუდიო. ამბობენ, მხატვრის სახელი, ალბომი ან სიმღერის სათაური და tooonage ჯერ დანარჩენი. თუნდაც ნაწილობრივი სახელები და სათაურები მუშაობა.  დარტყმა კონტროლის დასძინა: დარტყმა უფლება = ითამაშოს შემდეგი სიმღერა დარტყმა მარცხენა = ითამაშოს წინა სიმღერა დარტყმა up = ზრდა მოცულობა დარტყმა ქვემოთ = შემცირება მოცულობა"
+   },
+   {
+      "locale":"kk",
+      "country":"Kazakh",
+      "string":"Дауыстық бақыланатын аудиоплеер. Суретші атауы, альбом немесе ән атауы және tooonage тынығады айтады. тіпті ішінара атаулары мен атақтары жұмыс істейді.  сипау бақылау қосылған: оңға жүргізіңіз = келесі жолды ойнату солға сырғытыңыз = алдыңғы жолды ойнату = Ұлғайту көлемі жанап өтіңіз = Төмендеуі көлемін төмен қарай жүргізіп өтіңіз"
+   },
+   {
+      "locale":"km",
+      "country":"Khmer",
+      "string":"កម្មវិធីចាក់អូឌីយ៉ូសំឡេងបានគ្រប់គ្រង។ បាននិយាយថាអាល់ប៊ុមឈ្មោះសិល្បករឬចំណងជើងនិង tooonage បទចម្រៀងដែលធ្វើនៅសល់។ សូម្បីតែឈ្មោះចំណងជើងនិងធ្វើការផ្នែក។  ការត្រួតពិនិត្យបញ្ឈបន្ថែមទៀតថា: អូសទៅស្ដាំ = លេងបទបន្ទាប់ បញ្ឈបានចាកចេញ = លេងបទមុន បញ្ឈឡើងកំណើនទំហំ = បញ្ឈចុះ = បន្ថយកម្រិតសំឡេង"
+   },
+   {
+      "locale":"kn",
+      "country":"Kannada",
+      "string":"ಧ್ವನಿ ಆಡಿಯೊ ಪ್ಲೇಯರ್ ನಿಯಂತ್ರಿಸಬಹುದು. ಕಲಾವಿದರ ಹೆಸರು, ಆಲ್ಬಮ್ ಅಥವಾ ಹಾಡಿನ ಶೀರ್ಷಿಕೆ ಮತ್ತು tooonage ಉಳಿದುದನ್ನು ಹೇಳುತ್ತಾರೆ. ಭಾಗಶಃ ಹೆಸರುಗಳು ಮತ್ತು ಪ್ರಶಸ್ತಿಗಳನ್ನು ಕೆಲಸ.  ಸ್ವೈಪ್ ನಿಯಂತ್ರಣ ಸೇರಿಸಲಾಗಿದೆ: ಸ್ವೈಪ್ ಬಲ = ಮುಂದಿನ ಹಾಡು ಆಡಲು ಸ್ವೈಪ್ ಬಿಟ್ಟು = ಹಿಂದಿನ ಟ್ರ್ಯಾಕ್ ಆಡಲು = ಹೆಚ್ಚಳ ವಾಲ್ಯೂಮ್ ಸ್ವೈಪ್ = ವಾಲ್ಯೂಮ್ ಕಡಿಮೆ ಕೆಳಗೆ ಸ್ವೈಪ್"
+   },
+   {
+      "locale":"ko",
+      "country":"Korean",
+      "string":"음성 오디오 플레이어를 제어. 아티스트 이름, 앨범이나 노래 제목과 tooonage가 나머지를 말한다. 심지어 일부 이름과 제목이 작동합니다.  스 와이프 ​​컨트롤 추가 : = 다음 트랙을 마우스 오른쪽 버튼으로 재생으로 스 와이프 스 와이프 ​​왼쪽 = 이전 트랙을 재생 = 증가 볼륨을 슬쩍 = 감소 볼륨을 아래로 스 와이프"
+   },
+   {
+      "locale":"la",
+      "country":"Latin",
+      "string":"voice controlled audio player.  say artist name, album or song title and tooonage does the rest. even partial names and titles work.  swipe control added: swipe right = play next track swipe left    = play previous track swipe up     = increase volume swipe down = decrease volume"
+   },
+   {
+      "locale":"lo",
+      "country":"Lao",
+      "string":"ສຽງຄວບຄຸມຜູ້ນສຽງ. ເວົ້າຊື່ຈິດຕະນາການ, ອັລບັມຫຼືເພງຫົວຂໍ້ແລະ tooonage ບໍ່ສ່ວນທີ່ເຫຼືອ. ເຖິງແມ່ນວ່າຊື່ບາງສ່ວນແລະຫົວເຮັດວຽກ.  ການຄວບຄຸມ swipe ເພີ່ມ: swipe ສິດທິ = ຫຼິ້ນຕິດຕາມຕໍ່ໄປ swipe ໄວ້ = ຫຼິ້ນຕິດຕາມທີ່ຜ່ານມາ swipe ຂຶ້ນ = ປະລິມານເພີ່ມຂຶ້ນ swipe ລົງ = ປະລິມານລົດລົງ"
+   },
+   {
+      "locale":"lt",
+      "country":"Lithuanian",
+      "string":"balsu valdomos garso grotuvas. sako menininkas vardas, albumą arba dainos pavadinimą ir tooonage ar poilsio. net daliniai vardai ir pavadinimai dirbti.  servetėlės ​​kontrolė pridūrė: braukite į dešinę = žaisti kitą takelį braukite kairėn = žaisti ankstesnį takelį braukite aukštyn = Padidinti garsumą braukite žemyn = Sumažinti garsą"
+   },
+   {
+      "locale":"lv",
+      "country":"Latvian",
+      "string":"balss kontrolē audio atskaņotāju. saka mākslinieks vārdu, albuma vai dziesmas nosaukumu un tooonage paveiks pārējo. pat daļēji vārdi un nosaukumi strādāt.  zvēliens kontrole piebilda: Velciet pa labi = atskaņotu nākamo celiņu Velciet pa kreisi = spēlēt iepriekšējo dziesmu velciet uz augšu = palielināt skaļumu vilkt uz leju = samazinājuma apjoms"
+   },
+   {
+      "locale":"mg",
+      "country":"Malagasy",
+      "string":"feo maso teny mpilalao. hoe: mpanakanto anarana, rakikira na hira lohateny sy tooonage manao ny sisa. na dia ampahany anarana sy ny anaram-boninahitra miasa.  swipe fifehezana nanampy hoe: swipe marina = milalao manaraka lalana swipe sisa = milalao teo aloha lalana swipe ny = mitombo ny boky swipe midina = fihenana boky"
+   },
+   {
+      "locale":"mi",
+      "country":"Maori",
+      "string":"reo whakahaeretia kaitākaro ororongo. mea ingoa artist, pukaemi waiata ranei taitara me te tooonage e te toenga. ara ingoa kanohi me ngā taitara mahi.  mana swipe tāpiri: swipe tika = tākaro ara i muri swipe mahue = tākaro ara o mua swipe ake = rōrahi hua swipe iho = rōrahi heke"
+   },
+   {
+      "locale":"mk",
+      "country":"Macedonian",
+      "string":"глас контролирани аудио плеер. изговара името изведувач, албум или наслов на песна и tooonage не на одмор. дури и делумно имиња и титули работа.  контрола удар додаде: Движете десно = игра следната песна Движете лево = игра претходната песна движете нагоре = зголеми обемот лизгајте надолу = намалите јачината на звукот"
+   },
+   {
+      "locale":"ml",
+      "country":"Malayalam",
+      "string":"ശബ്ദം നിയന്ത്രിത ഓഡിയോ പ്ലെയർ. ആർട്ടിസ്റ്റിന്റെ പേര്, ആൽബം അല്ലെങ്കിൽ ഗാന ശീർഷകം, tooonage ബാക്കി പറയുന്നു. പോലും ഭാഗിക പേരുകളും ശീർഷകങ്ങളും ജോലി.  സ്വൈപ്പ് നിയന്ത്രണം ചേർത്തു: ശരിയായ സ്വൈപ് = അടുത്ത ട്രാക്ക് പ്ലേ അവശേഷിക്കുന്നു സ്വൈപ് = മുമ്പത്തെ ട്രാക്ക് പ്ലേ = വർധന വോളിയം അപ്പ് സ്വൈപ് = കുറയുന്നു കുറയ്ക്കുക സ്വൈപ്പ്"
+   },
+   {
+      "locale":"mn",
+      "country":"Mongolian",
+      "string":"дуу аудио тоглуулагч хяналттай. уран бүтээлч нэр, цомог болон дууны нэр болон tooonage үлдсэнийг нь хийдэг байна. тэр ч байтугай хэсэгчилсэн нэр, цол хэргэм ажиллаж байна.  шудар хяналтын нэмсэн: Зөв = дараагийн зам тоглох шудар шудар зүүн = өмнөх замыг тоглох = Өсөлт хэмжээ хүртэл шудар = Буурсан хэмжээг доош нь шудар"
+   },
+   {
+      "locale":"mr",
+      "country":"Marathi",
+      "string":"आवाज ऑडिओ प्लेयर नियंत्रित. कलाकाराचे नाव, अल्बम किंवा गाण्याचे शीर्षक आणि tooonage बाकीचे म्हणतात. अगदी आंशिक नावे आणि शीर्षके काम.  चोरणे नियंत्रण जोडले: उजवीकडे स्वाइप करा = पुढील ट्रॅक प्ले चोरणे बाकी = मागील ट्रॅक प्ले = वाढ खंड वर स्वाइप करा = आवाज कमी स्वाइप करा"
+   },
+   {
+      "locale":"ms",
+      "country":"Malay",
+      "string":"suara dikawal pemain audio. menyebut nama artis, album atau lagu tajuk dan tooonage melakukan yang selebihnya. walaupun nama separa dan tajuk bekerja.  kawalan sapu menambah: leret ke kanan = memainkan trek seterusnya sapu kiri = memainkan trek sebelumnya leret ke atas = peningkatan jumlah leret ke bawah = jumlah penurunan"
+   },
+   {
+      "locale":"mt",
+      "country":"Maltese",
+      "string":"vuċi kkontrollati audio player. jiġifieri l-isem artist, album jew kanzunetta titolu u tooonage ma l-bqija. anki ismijiet parzjali u titoli jaħdmu.  kontroll swipe miżjud: Swipe dritt = jilagħbu binarji li jmiss swipe xellug = jilagħbu binarji preċedenti swipe sal = volum żieda swipe isfel = volum tnaqqis"
+   },
+   {
+      "locale":"my",
+      "country":"Myanmar (Burmese)",
+      "string":"စကားသံကိုထိန်းချုပ်ထားသောအသံကစားသမား။ အနုပညာရှင်အမည်, အယ်လ်ဘမ်သို့မဟုတ်သီချင်းခေါင်းစဉ်နှင့် tooonage ကြွင်းသောအရာမဆိုရ။ ပင်တစ်စိတ်တစ်ပိုင်းအမည်များနှင့်ခေါင်းစဉ်အလုပ်လုပ်ကြသည်။  ပွတ်ဆွဲထိန်းချုပ်ကဆက်ပြောသည်: ညာဘက်ကိုပွတ်ဆွဲ = လာမည့်လမ်းကြောင်း play ကျန်ရစ်ပွတ်ဆွဲ = ယခင်လမ်းကြောင်း play = တိုးအသံအတိုးအကျယ်ကိုတက်ပွတ်ဆွဲ = ကျဆင်းခြင်း volume အဆင်းပွတ်ဆွဲ"
+   },
+   {
+      "locale":"ne",
+      "country":"Nepali",
+      "string":"आवाज अडियो प्लेयर नियन्त्रण। भन्न कलाकारको नाम, एल्बम वा गीत शीर्षक र tooonage बाँकी गर्छ। पनि आंशिक नाम र शीर्षक काम।  स्वाइप नियन्त्रण जोडी: दायाँ = अर्को ट्रयाक प्ले स्वाइप गर्नुहोस् स्वाइप बाँकी = अघिल्लो ट्रयाक प्ले अप = वृद्धि मात्रा स्वाइप तल = कमी मात्रा स्वाइप"
+   },
+   {
+      "locale":"nl",
+      "country":"Dutch",
+      "string":"spraakgestuurde audiospeler. zeggen naam van de artiest, album of titel en tooonage doet de rest. zelfs gedeeltelijke namen en titels te werken.  swipe control toegevoegd: Veeg naar rechts = spelen volgende track veeg naar links = spelen vorige track veeg omhoog = toename van het volume swipe omlaag = afname van het volume"
+   },
+   {
+      "locale":"no",
+      "country":"Norwegian",
+      "string":"talestyrt lydavspiller. sier artistnavn, album eller sangtittel og tooonage gjør resten. selv delvis navn og titler fungere.  swipe kontroll lagt til: Sveip til høyre = spille neste spor Sveip til venstre = spille forrige spor Sveip opp = øke volumet sveip ned = redusere volumet"
+   },
+   {
+      "locale":"ny",
+      "country":"Chichewa",
+      "string":"mawu ankalamulira player audio. kunena dzina wojambula, Album kapena nyimbo mutu ndi tooonage amachita ena onse. ngakhale maina tsankho ndi maudindo ntchito.  Yendetsani chala ulamuliro anawonjezera kuti: Yendetsani chala pomwe = kusewera njanji pafupi Yendetsani chala anasiya = kusewera njanji yapita Yendetsani chala mmwamba = kuwonjezeka voliyumu Yendetsani chala pansi = kuchepa voliyumu"
+   },
+   {
+      "locale":"pa",
+      "country":"Punjabi",
+      "string":"ਅਵਾਜ਼ ਆਡੀਓ ਪਲੇਅਰ ਕੰਟਰੋਲ. ਦਾ ਕਹਿਣਾ ਹੈ ਕਲਾਕਾਰ ਦਾ ਨਾਮ, ਐਲਬਮ ਜ ਗੀਤ ਦਾ ਸਿਰਲੇਖ ਹੈ ਅਤੇ tooonage ਬਾਕੀ ਕਰਦਾ ਹੈ. ਵੀ ਅੰਸ਼ਕ ਨਾਮ ਅਤੇ ਖ਼ਿਤਾਬ ਕੰਮ ਕਰਦੇ ਹਨ.  ਸਵਾਈਪ ਕੰਟਰੋਲ ਕਿਹਾ: ਸੱਜੇ ਸਵਾਈਪ = ਅਗਲੇ ਟਰੈਕ ਖੇਡਣ ਸਵਾਈਪ ਨੂੰ ਛੱਡ = ਪਿਛਲੇ ਟਰੈਕ ਖੇਡਣ = ਵਾਧਾ ਵਾਲੀਅਮ ਅੱਪ ਸਵਾਈਪ = ਕਮੀ ਵਾਲੀਅਮ ਥੱਲੇ ਸਵਾਈਪ"
+   },
+   {
+      "locale":"pl",
+      "country":"Polish",
+      "string":"Głos sterowany odtwarzacz audio. powiedzieć, nazwa wykonawcy, albumu lub utworu tytuł i tooonage zrobi resztę. nawet częściowe nazwy i tytuły pracy.  Kontrola machnięcia brzmieniu: przesuń w prawo = odtworzyć następny utwór Przesuń w lewo = odtworzyć poprzedni utwór przesuń w górę zwiększa głośność przesuń w dół zmniejsza głośność"
+   },
+   {
+      "locale":"pt",
+      "country":"Portuguese",
+      "string":"voz controlada leitor de áudio. dizer o nome do artista, álbum ou música título e tooonage faz o resto. até mesmo nomes parciais e títulos trabalhar.  controle de furto acrescentou: deslize para a direita = jogar faixa seguinte deixou de furto = jogar faixa anterior deslize para cima = aumento de volume deslize para baixo = diminuir o volume"
+   },
+   {
+      "locale":"ro",
+      "country":"Romanian",
+      "string":"player-ul audio vocal controlat. spun numele de artist, album sau melodie din titlu și tooonage face restul. chiar nume parțiale și titluri funcționează.  Controlul glisează adăugat: glisați spre dreapta = juca piesa următoare Deplasați degetul spre stânga = juca pista anterioară glisați în sus = creșterea volumului deplasați degetul în jos = volumul scădere"
+   },
+   {
+      "locale":"ru",
+      "country":"Russian",
+      "string":"Голос управляется аудиоплеер. произнести имя исполнителя, название альбома или название песни и tooonage делает все остальное. даже частичные имена и названия работы.  Управление Размах добавил: проведите пальцем вправо = играть следующий трек проведите пальцем влево = воспроизведение предыдущего трека проведите пальцем вверх = увеличить громкость проведите пальцем вниз = уменьшить громкость"
+   },
+   {
+      "locale":"si",
+      "country":"Sinhala",
+      "string":"හඬ පාලනය audio player. චිත්ර ශිල්පියා නම, ඇල්බමය හෝ ගීතය මාතෘකාව සහ tooonage ඉතිරි කරන්නේ කියලා. පවා අර්ධ නම් සහ මාතෘකා වැඩ.  අතුල් පහරක් දෙමින් පාලනය කළේය: අයිතිය ස්වයිප් = ඊළඟ මාර්ගයේ සෙල්ලම් ඉතිරි ස්වයිප් = පෙර ධාවන ක්රීඩා = පරිමාව ඉහළ දැමීම ස්වයිප් කරන්න = අඩු පරිමාවක් බැස ස්වයිප් කරන්න"
+   },
+   {
+      "locale":"sk",
+      "country":"Slovak",
+      "string":"hlasom riadený audio prehrávač. hovoriť meno interpreta, albumu alebo názov skladby a tooonage sa postará o zvyšok. ani čiastočné mená a tituly fungovať.  Ovládanie výpad, ktorý znie: prejdite vpravo = hrať ďalšiu skladbu prejdením prstom doľava = Predchádzajúcu stopu prejdením prstom hore = nárast objemu prejdením dole = zníženie hlasitosti"
+   },
+   {
+      "locale":"sl",
+      "country":"Slovenian",
+      "string":"glasovno nadzorovani avdio predvajalnik. pravijo, ime izvajalca, album ali skladbo naslov in tooonage pa ostalo. celo delni imena in naslove delo.  Nadzor Močan dodal: potegnite v desno = predvajanje naslednjega posnetka Močan levo = predvajati prejšnji posnetek potegnite gor = volumen povečanje povlecite navzdol = zmanjšanje glasnosti"
+   },
+   {
+      "locale":"so",
+      "country":"Somali",
+      "string":"codka gacanta ciyaaryahan audio. dhihi magaca artist, album ama song horyaalka iyo tooonage ma intiisa kale. xitaa magacyada qayb iyo koobab shaqeeyaan.  gacanta weerar dadban ku daray: dadban xaq = ciyaari track ee soo socota weerar dadban ku tagay = ciyaari track hore mari kor = korodhka mugga mari hoos = hoos u dhac mugga"
+   },
+   {
+      "locale":"sq",
+      "country":"Albanian",
+      "string":"Zëri i kontrolluar audio player. thonë se emri artist, album ose song titulli dhe tooonage bën pjesa tjetër. edhe emrat e pjesshme dhe tituj të punojnë.  Kontrolli i shpullë shtoi: shpullë drejtë = luajnë rrugën e ardhshëm shpullë majtë = luajnë gjurmët e mëparshme shpullë up = rritje volumin shpullë poshtë = volumin ulje"
+   },
+   {
+      "locale":"sr",
+      "country":"Serbian",
+      "string":"глас под контролом аудио плејер. изговорите име извођача, албум или назив песме и тооонаге ради све остало. чак и парцијалне имена и титуле раде.  Контрола Свипе додао: Пребаците екран надесно = плаи следећу нумеру Свипе лево = плаи претходну нумеру превуците нагоре = волумен повећање превуците надоле = запремина смањење"
+   },
+   {
+      "locale":"st",
+      "country":"Sesotho",
+      "string":"lentsoe la laoloa sebapala mameloang. re lebitso moetsi oa litšoantšo, alebamo kapa pina tlotla le tooonage etsang ba bang kaofela. esita le mabitso a leeme le litlotla tse sebetsa.  swipe laola liketso phaella: swipe tokelo = bapala pina latelang swipe siea = bapala pina mehleng swipe hodimo = keketseho molumo oa swipe fatše = fokotsa bophahamo ba modumo"
+   },
+   {
+      "locale":"su",
+      "country":"Sundanese",
+      "string":"sora dikawasa pamuter audio. nyebutkeun ngaran artis, albeum atawa lagu judul jeung tooonage teu sésana. komo ngaran parsial jeung judul jalan.  kontrol gesek ditambahkeun: gesek katuhu = ulin lagu nu saterusna gesek kenca = ulin lagu nu saencana gesek nepi = kanaékan volume gesek turun = volume panurunan"
+   },
+   {
+      "locale":"sv",
+      "country":"Swedish",
+      "string":"röststyrd musikspelare. säger artistnamn, album eller låttitel och tooonage gör resten. även partiella namn och titlar fungerar.  swipe kontroll tillade: Svep åt höger = spela nästa spår Dra åt vänster = spela föregående spår dra upp = volymökning dra ned = minska volymen"
+   },
+   {
+      "locale":"sw",
+      "country":"Swahili",
+      "string":"sauti kudhibitiwa mchezaji redio. kusema jina la msanii, albamu au wimbo cheo na tooonage gani wengine. hata majina ubaguzi na vyeo kazi.  swipe udhibiti aliongeza: pitisha kulia = kucheza wimbo ijayo swipe kushoto = kucheza wimbo uliopita swipe juu = ongezeko kiasi swipe chini = kupungua kiasi"
+   },
+   {
+      "locale":"ta",
+      "country":"Tamil",
+      "string":"குரல் ஆடியோ பிளேயர் கட்டுப்படுத்தப்படும். கலைஞரின் பெயர், ஆல்பம் அல்லது பாடல் தலைப்பு மற்றும் tooonage மற்றதை சொல்ல. கூட பகுதி பெயர்கள், பதவிகள், வேலை.  தேய்த்தால் கட்டுப்பாடு சேர்க்கப்பட்டது: வலதுபுறம் ஸ்வைப் = அடுத்த பாடல் விளையாட தேய்த்தால் இடது = முந்தைய பாதையில் விளையாட = ஒலியளவு தேய்த்தால் = ஒலியளவு கீழே தேய்த்தால்"
+   },
+   {
+      "locale":"te",
+      "country":"Telugu",
+      "string":"వాయిస్ ఆడియో ఆటగాడు నియంత్రిస్తాడు. కళాకారుని పేరు, ఆల్బమ్ లేదా పాట శీర్షిక మరియు tooonage మిగిలిన చేస్తుంది చెబుతున్నారు. కనీసం పరోక్షంగా జాబితా పేర్లను మరియు బిరుదలను పని.  తుడుపు నియంత్రణ జోడించారు: కుడి తుడుపు = తదుపరి ట్రాక్ ప్లే తుడుపు వదిలి = మునుపటి ట్రాక్ ప్లే = పెరుగుదల విలివను తుడుపు = తగ్గుదల వాల్యూమ్ డౌన్ స్వైప్"
+   },
+   {
+      "locale":"tg",
+      "country":"Tajik",
+      "string":"овози назорат бозингар аудио. мегӯянд, номи ҳунарвар, албом ё суруди унвони ва tooonage мекунад дигарон нақл карданд. ҳатто номҳои қисман ва унвонҳои кор мекунанд.  назорати Лағжиш илова кард: кордарории ҳуқуқ = бозӣ суруд оянда Лағжиш чап = бозӣ суруд гузашта кордарории = афзоиши ҳаҷми зарб поён = коҳишёбии ҳаҷми"
+   },
+   {
+      "locale":"th",
+      "country":"Thai",
+      "string":"เสียงเครื่องเล่นเสียงควบคุม พูดชื่อศิลปิน, อัลบั้มหรือชื่อเพลงและ tooonage ไม่เหลือ แม้กระทั่งชื่อและชื่อบางส่วนทำงาน  ควบคุมรูดเพิ่ม: กวาดไปทางขวา = เล่นเพลงถัดไป รูดซ้าย = เล่นเพลงก่อนหน้า ปัดขึ้น = ปริมาณเพิ่มขึ้น รูดลง = ปริมาณลดลง"
+   },
+   {
+      "locale":"tl",
+      "country":"Filipino",
+      "string":"boses kinokontrol audio player. sabihin pangalan ng artist, album o kanta pamagat at tooonage ginagawa ng iba. kahit na bahagyang mga pangalan at mga pamagat gumagana.  swipe control Idinagdag: mag-swipe pakanan = i-play susunod na track mag-swipe pakaliwa = maglaro nakaraang track Mag-swipe pataas = pagtaas ng lakas ng tunog mag-swipe pababa = pagbaba volume"
+   },
+   {
+      "locale":"tr",
+      "country":"Turkish",
+      "string":"ses müzik çalar kontrollü. sanatçı adı, albüm ya da şarkı başlığı ve tooonage gerisini söylüyorlar. Hatta kısmi adları ve unvanları çalışır.  tokatlamak kontrolü eklendi: = Bir sonraki parçayı sağ oynamak kaydırın tokatlamak sol = Önceki parçayı çalmak = Artış sesini tokatlamak = Sesi azaltır aşağı kaydırın"
+   },
+   {
+      "locale":"uk",
+      "country":"Ukrainian",
+      "string":"Голос управляється аудіоплеєр. вимовити ім&#39;я виконавця, назва альбому або назву пісні і tooonage робить все інше. навіть часткові імена і назви роботи.  Управління Розмах додав: проведіть пальцем вправо = грати наступний трек проведіть пальцем вліво = відтворення попереднього треку проведіть пальцем вгору = збільшити гучність проведіть пальцем вниз = зменшити гучність"
+   },
+   {
+      "locale":"ur",
+      "country":"Urdu",
+      "string":"آواز آڈیو پلیئر کنٹرول. فنکار کا نام، البم یا عنوان اور tooonage آرام کرتا ہے کا کہنا ہے کہ. یہاں تک کہ جزوی ناموں اور عنوانات کام.  swipe کے کنٹرول نے مزید کہا: حق سوائپ = اگلے ٹریک ادا swipe کے بائیں = پچھلے ٹریک کو کھیلنے کے = اضافہ کے حجم اوپر سوائپ = حجم کم نیچے swipe"
+   },
+   {
+      "locale":"uz",
+      "country":"Uzbek",
+      "string":"ovozli audio player nazorat. rassom nomi, albom yoki qo&#39;shiq nomi va tooonage qolgan qilsa aytish. hatto qisman nomlari va unvonlari ishlaydi.  surish nazorat qo&#39;shib qo&#39;ydi: = Keyingi trekni o&#39;ng o&#39;ynash tarafga o&#39;ting chapga surish = avvalgi trekka = O&#39;sish hajmi up suring = Kamayishi hajmi pastga suring"
+   },
+   {
+      "locale":"vi",
+      "country":"Vietnamese",
+      "string":"giọng nói điều khiển máy nghe nhạc. nói tên nghệ sĩ, album hoặc ca khúc chủ đề và tooonage hiện phần còn lại. thậm chí tên một phần và chức danh công việc.  kiểm soát swipe thêm: trượt sang phải = chơi nhạc tiếp theo swipe trái = chơi track trước hãy kéo mạnh lên = tăng khối lượng trượt xuống = khối lượng giảm"
+   },
+   {
+      "locale":"yi",
+      "country":"Yiddish",
+      "string":"קול קאַנטראָולד אַודיאָ שפּילער. זאָגן קינסטלער נאָמען, אלבאם אָדער ליד טיטל און טאָאָאָנאַגע טוט די מנוחה. אַפֿילו פּאַרטיייש נעמען און טיטלען אַרבעט.  לאַקכענען קאָנטראָל צוגעגעבן: לאַקכענען רעכט = שפּילן ווייַטער שפּור לאַקכענען לינקס = שפּילן פרייַערדיק שפּור לאַקכענען אַרויף = פאַרגרעסערן באַנד לאַקכענען אַראָפּ = פאַרקלענערן באַנד"
+   },
+   {
+      "locale":"yo",
+      "country":"Yoruba",
+      "string":"ohùn dari iwe player. sọ olorin orukọ, awo-orin tabi song akọle ati tooonage wo ni isinmi. ani apa kan awọn orukọ ati oyè ṣiṣẹ.  Ra Iṣakoso fi kun: Ra ọtun = mu orin Ra osi = mu orin ti tẹlẹ ra soke = ilosoke iwọn didun ra si isalẹ = isalẹ"
+   },
+   {
+      "locale":"zh",
+      "country":"Chinese",
+      "string":"语音控制音频播放器。 说歌手名，专辑或歌曲名称和tooonage没有休息。 即使是部分姓名和职务的工作。  刷卡控制补充说： 向右滑动即可=播放下一首曲目 向左滑动=播放一首曲目 向上滑动即可=提高音量 向下滑动=降低音量"
+   },
+   {
+      "locale":"zh-CN",
+      "country":"Chinese (Simplified)",
+      "string":"语音控制音频播放器。 说歌手名，专辑或歌曲名称和tooonage没有休息。 即使是部分姓名和职务的工作。  刷卡控制补充说： 向右滑动即可=播放下一首曲目 向左滑动=播放一首曲目 向上滑动即可=提高音量 向下滑动=降低音量"
+   },
+   {
+      "locale":"zh-TW",
+      "country":"Chinese (Traditional)",
+      "string":"語音控制音頻播放器。 說歌手名，專輯或歌曲名稱和tooonage沒有休息。 即使是部分姓名和職務的工作。  刷卡控制補充說： 向右滑動即可=播放下一首曲目 向左滑動=播放一首曲目 向上滑動即可=提高音量 向下滑動=降低音量"
+   },
+   {
+      "locale":"zu",
+      "country":"Zulu",
+      "string":"izwi elawulwa isidlali audio. usho igama lomculi, albhamu noma isihloko sengoma tooonage wenza ukuphumula. ngisho amagama ngokwengxenye neziqu ukusebenza.  isilawuli iswayipha wanezela: swayipela kwesokudla = ukudlala kwithrekhi elandelayo Swayipha kwesokunxele = ukudlala kwithrekhi yangaphambili swayipha = ukwanda ivolumu ungaswayiphela phansi = ukunciphisa ivolumu"
+   }
+]

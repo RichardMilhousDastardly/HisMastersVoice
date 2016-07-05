@@ -1,0 +1,1 @@
+<resources><string name="app_name">Tooonage</string><string name="permission_explanation_record_audio">请允许录制音频，因为这应用程序使用语音识别</string><string name="permission_explanation_read_external_storage">请允许读取外部存储访问，因为这应用程序要发挥你所有的音乐</string><string name="click_on_one">1). 点击</string><string name="click_on_two">2). 点击</string><string name="say_play">3). 说出来！Toonage播放吧！</string></resources>

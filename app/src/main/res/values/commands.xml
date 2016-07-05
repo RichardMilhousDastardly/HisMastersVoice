@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="commands_array">
+        <item>play</item>
+        <item>pause</item>
+        <item>stop</item>
+        <item>shuffle</item>
+        <item>next</item>
+        <item>previous</item>
+        <item>mute</item>
+        <item>louder</item>
+        <item>quieter</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="key_words_array">
+        <item>artist</item>
+        <item>album</item>
+        <item>track</item>
+    </string-array>
+</resources>
